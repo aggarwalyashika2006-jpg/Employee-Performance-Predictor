@@ -1,4 +1,6 @@
 # 🏢 Employee Performance Predictor
+🌐 Live App:
+https://employee-performance-predictor-zhvwuyvjmallou5bdckbhx.streamlit.app/
 
 ## 🚀 Overview
 
